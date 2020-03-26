@@ -1,0 +1,5 @@
+c:\users\remio\onedrive\documents\visual studio 2015\Projects\ChasisComunicator\ChasisComunicator\bin\Debug\ChasisComunicator.exe.config
+c:\users\remio\onedrive\documents\visual studio 2015\Projects\ChasisComunicator\ChasisComunicator\obj\Debug\ChasisComunicator.csprojResolveAssemblyReference.cache
+c:\users\remio\onedrive\documents\visual studio 2015\Projects\ChasisComunicator\ChasisComunicator\obj\Debug\ChasisComunicator.Form1.resources
+c:\users\remio\onedrive\documents\visual studio 2015\Projects\ChasisComunicator\ChasisComunicator\obj\Debug\ChasisComunicator.Properties.Resources.resources
+c:\users\remio\onedrive\documents\visual studio 2015\Projects\ChasisComunicator\ChasisComunicator\obj\Debug\ChasisComunicator.csproj.GenerateResource.Cache
